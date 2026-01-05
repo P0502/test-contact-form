@@ -27,7 +27,7 @@
 #### ・phpmyadmin:8080:80
 
 ## ER図
-
+<img width="564" height="517" alt="スクリーンショット 2026-01-04 025335" src="https://github.com/user-attachments/assets/eb559ff2-623f-43a1-9a7a-348a0a6b4746" />
 
 ## URL
 #### ・お問い合わせフォーム: http://localhost/
