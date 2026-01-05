@@ -19,6 +19,9 @@
 ### シーディング実行
 #### ・php artisan db:seed
 
+### キー生成
+#### ・php artisan key:generate
+
 ### 使用技術(実行環境)
 #### ・PHP:8.4.14
 #### ・Laravel:8.83.29
